@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562009488128",
+    "firebase_url": "https://ekart-1e8f3.firebaseio.com",
+    "project_id": "ekart-1e8f3",
+    "storage_bucket": "ekart-1e8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562009488128:android:410d544879383e6f4691e5",
+        "android_client_info": {
+          "package_name": "com.example.gauryns.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562009488128-kuu0i49j96s1puo3a8250ps1p3had11r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gauryns.ekart",
+            "certificate_hash": "f95e2ccc06057b16f1588a8ac0ba0f93ee5bcb38"
+          }
+        },
+        {
+          "client_id": "562009488128-ddo4bgp4avs9biunr0b2hlgiv6fjof13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0Dn0Ox_VvpQTjl-s43qEmMS3yR6ZtxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562009488128-ddo4bgp4avs9biunr0b2hlgiv6fjof13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
